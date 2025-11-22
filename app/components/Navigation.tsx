@@ -34,7 +34,6 @@ export default function Navigation() {
           )}
         </Link>
       </Button>
-      <ThemeToggle />
     </nav>
   );
 }
