@@ -48,7 +48,7 @@ export default function Home() {
     <div className="min-h-screen bg-background text-foreground">
       <header className="w-full px-8 py-6 flex items-center justify-between border-b">
         <div>
-          <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
+          <h1 className="text-2xl font-bold bg-primary bg-clip-text text-transparent">
             GarageCars
           </h1>
         </div>
